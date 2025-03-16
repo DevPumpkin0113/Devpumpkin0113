@@ -7,7 +7,7 @@
 
 ## 🔎 Github Stats
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/username=DevPumpkin0113&layout=donut&show_icons=true&theme=react&count_private=true" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPumpkin0113&layout=donut&show_icons=true&theme=react&count_private=true" width=38% />
     <img src="https://github-readme-stats.vercel.app/api?username=DevPumpkin0113&show_icons=true&theme=react&count_private=true" width=56% />
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevPumpkin0113&theme=react" width=95%/>
 </div>
