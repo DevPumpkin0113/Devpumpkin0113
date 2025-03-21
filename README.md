@@ -69,7 +69,7 @@
 |------|----------|------|
 | 2024.12.10 - 2025.01.06 | [Popup Market](https://github.com/prgrms-be-devcourse/NBE2-3-2-team7/tree/main) | 팝업스토어 공간 임대 플랫폼 |
 | 2025.02.10 - 2025.03.14 | [STUV](https://github.com/prgrms-web-devcourse-final-project/WEB2_3_Wooamo_BE) | 학습 독려 플랫폼 |
-| 2025.03.17 - ~ | [Devlog](#) | 블로그 풀스택 개발 개인 프로젝트 |
+| 2025.03.17 - ~ | [Devlog](#) | 개발자 포트폴리오 및 이슈/트러블슈팅 기록 플랫폼 |
 <!-- | YYYY.MM - YYYY.MM | [](#) | 개요 | -->
 
 
