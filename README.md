@@ -57,12 +57,12 @@
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 
-## ✏ Study
+<!-- ## ✏ Study
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=tto0113)](https://solved.ac/tto0113)  
 
-<!-- 추후 추가 -->
+추후 추가
 [![Tech Blog](https://img.shields.io/badge/Blog-181717?style=for-the-badge&logo=GitHub&logoColor=white)](#)
-
+-->
 
 ## 🌐 Projects
 | Period | Title | Overview |
