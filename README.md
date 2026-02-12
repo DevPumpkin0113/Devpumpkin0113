@@ -67,9 +67,9 @@
 ## 🌐 Projects
 | Developer | Period | Title | Overview |
 |------|------|----------|------|
-| Team Toothless | 2026.02 | RPS Rush (private) | 제한 시간 안에 이기는 수를 내며 콤보를 이어가며 점수를 쌓는 캐주얼 가위바위보 게임 |
-| Team Toothless | 2026.02 | Jelly Pop (private) | 말랑한 젤리들을 색 순서대로 연결하는 캐주얼 퍼즐 게임 |
-| [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.02 | [Game Dev Viewer](https://github.com/DevPumpkin0113/webview-dev-app) | `url`입력창과 같은 각종 UI들을 숨기고 개발중인 웹앱을 APK처럼 간편하게 볼 수 있도록 만들어진 앱 |
+| Team Toothless | 2026.02 | RPS Rush (private) | 캐주얼 가위바위보 게임 |
+| Team Toothless | 2026.02 | Jelly Pop (private) | 캐주얼 퍼즐 게임 |
+| [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.02 | [Game Dev Viewer](https://github.com/DevPumpkin0113/webview-dev-app) | 앱 개발용 웹뷰어 |
 | 우 아 모 | 2025.02.10 - 2025.03.14 | [STUV](https://github.com/prgrms-web-devcourse-final-project/WEB2_3_Wooamo_BE) | 학습 독려 플랫폼 |
 | 데브코스 7팀 | 2024.12.10 - 2025.01.06 | [Popup Market](https://github.com/prgrms-be-devcourse/NBE2-3-2-team7/tree/main) | 팝업스토어 공간 임대 플랫폼 |
 <!-- | 2025.03.17 - ~ | [Devlog](#) | 개발자 포트폴리오 및 이슈/트러블슈팅 기록 플랫폼 | -->
