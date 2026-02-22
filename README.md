@@ -67,8 +67,9 @@
 ## 🌐 Projects
 | Developer | Period | Title | Overview |
 |------|------|----------|------|
+| Team Toothless | 2026.02.23 - 2026.02.?? | Stack & Ship (private) | 캐주얼 퍼즐 게임 |
+| Team Toothless | 2026.02.21 - 2026.02.?? | King's Journey (private) | 체스 로그라이크 게임 |
 | Team Toothless | 2026.02.17 - 2026.02.20 | Animals on the Ark (private) | 물리 기반 스택 게임 |
-| Team Toothless | 개발 일시 중단 | Stack & Ship (private) | 캐주얼 퍼즐 게임 |
 | Team Toothless | 2026.02.09 - 2026.02.13 | RPS Rush (private) | 캐주얼 가위바위보 게임 |
 | Team Toothless | 2026.02.01 - 2026.02.07 | Jelly Pop (private) | 캐주얼 퍼즐 게임 |
 | [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.02.06 - 2026.02.07 | [Local Web Viewer](https://github.com/DevPumpkin0113/webview-dev-app) | 앱 개발용 웹뷰어 |
