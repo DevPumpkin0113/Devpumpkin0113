@@ -67,8 +67,9 @@
 ## 🌐 Projects
 | Developer | Period | Title | Overview |
 |------|------|----------|------|
-| Team Toothless | 2026.02.23 - 2026.02.?? | Stack & Ship (private) | 캐주얼 퍼즐 게임 |
-| Team Toothless | 2026.02.21 - 2026.02.?? | King's Journey (private) | 체스 로그라이크 게임 |
+<!-- | Team Toothless | 2026.02.23 - 2026.02.?? | Stack & Ship (private) | 캐주얼 퍼즐 게임 | -->
+| Team Toothless | 2026.03.01 - 2026.03.?? | Over Chain (private) | 체인 퍼즐 로그라이크 게임 |
+| Team Toothless | 2026.02.21 - 2026.02.28 | Tactichess [협업] (private) | 체스 로그라이크 게임 |
 | Team Toothless | 2026.02.17 - 2026.02.20 | Animals on the Ark (private) | 물리 기반 스택 게임 |
 | Team Toothless | 2026.02.09 - 2026.02.13 | RPS Rush (private) | 캐주얼 가위바위보 게임 |
 | Team Toothless | 2026.02.01 - 2026.02.07 | Jelly Pop (private) | 캐주얼 퍼즐 게임 |
