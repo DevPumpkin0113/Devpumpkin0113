@@ -68,11 +68,13 @@
 | Developer | Period | Title | Overview |
 |------|------|----------|------|
 | Team Toothless | 2026.03.01 - 2026.03.?? | Over Chain (private) | 체인 퍼즐 로그라이크 게임 |
-| Team Toothless | 2026.02.21 - 2026.02.28 | Tactichess [협업] (private) | 체스 로그라이크 게임 |
+| Team Toothless | 2026.02.21 - 2026.02.28 | Tactichess [공동] (private) | 체스 로그라이크 게임 |
 | Team Toothless | 2026.02.17 - 2026.02.20 | Animals on the Ark (private) | 물리 기반 스택 게임 |
 | Team Toothless | 2026.02.09 - 2026.02.13 | RPS Rush (private) | 캐주얼 가위바위보 게임 |
 | Team Toothless | 2026.02.01 - 2026.02.07 | Jelly Pop (private) | 캐주얼 퍼즐 게임 |
+| [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.02.07 - 2026.02.19 | 팀 페이지용 백엔드 서버 (private) | Fastify(TS) Backend Server |
 | [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.02.06 - 2026.02.07 | [Local Web Viewer](https://github.com/DevPumpkin0113/webview-dev-app) | 앱 개발용 웹뷰어 |
+| [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.02.01 - 2026.02.07 | 팀 페이지용 게임허브 (private) | React(TS) Frontend WepApp |
 | 우 아 모 | 2025.02.10 - 2025.03.14 | [STUV](https://github.com/prgrms-web-devcourse-final-project/WEB2_3_Wooamo_BE) | 학습 독려 플랫폼 |
 | 데브코스 7팀 | 2024.12.10 - 2025.01.06 | [Popup Market](https://github.com/prgrms-be-devcourse/NBE2-3-2-team7/tree/main) | 팝업스토어 공간 임대 플랫폼 |
 <!-- | Team Toothless | 2026.02.23 - 2026.02.?? | Stack & Ship (private) | 캐주얼 퍼즐 게임 | -->
