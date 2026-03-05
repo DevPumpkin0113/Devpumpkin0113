@@ -7,7 +7,7 @@
 
 ## 🔎 Github Stats
 <div align="left">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevPumpkin0113&theme=zenburn" width=38% />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevPumpkin0113&theme=zenburn" width=38% />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevPumpkin0113&theme=zenburn" width=38% />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevPumpkin0113&theme=zenburn" width=76.5%/>
 </div>
