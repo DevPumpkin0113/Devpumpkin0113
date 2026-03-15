@@ -67,7 +67,7 @@
 ## 🌐 Projects
 | Developer | Period | Title | Overview |
 |------|------|----------|------|
-| Team Toothless | 2026.03.13 - 2026.03.?? | Stack & Ship (private) | 캐주얼 퍼즐 게임 |
+| Team Toothless | 2026.03.13 - 2026.03.16 | Stack & Ship (private) | 캐주얼 퍼즐 게임 |
 | Team Toothless | 2026.03.01 - 2026.03.10 | Over Chain (private) | 체인 퍼즐 로그라이크 게임 |
 | Team Toothless | 2026.02.21 - 2026.02.28 | Tactichess [공동] (private) | 체스 로그라이크 게임 |
 | Team Toothless | 2026.02.17 - 2026.02.20 | Animals on the Ark (private) | 물리 기반 스택 게임 |
