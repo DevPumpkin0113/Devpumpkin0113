@@ -65,7 +65,7 @@
 -->
 
 ## 🌐 Projects
-| Developer | Period | Title | Overview |
+| Repository | Period | Title | Overview |
 |------|------|----------|------|
 | Team Toothless | 2026.03.17 - 2026.03.?? | 운수대통 : 동양화투점 | 화투로 보는 오늘의 운세 |
 | Team Toothless | 2026.03.13 - 2026.03.16 | 쌓고 출고 | 물류센터 느낌의 캐주얼 테트리스 퍼즐 게임 |
