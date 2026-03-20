@@ -67,6 +67,7 @@
 ## 🌐 Projects
 | Repository | Period | Title | Overview |
 |------|------|----------|------|
+| [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.03.21 - (유지보수 진행중) | 팀 투스리스 사이트 | React(TS) Frontend WepApp |
 | Team Toothless | 2026.03.17 - 2026.03.?? | 운수대통 : 동양화투점 | 화투로 보는 오늘의 운세 |
 | Team Toothless | 2026.03.13 - 2026.03.16 | 쌓고 출고 | 물류센터 느낌의 캐주얼 테트리스 퍼즐 게임 |
 | Team Toothless | 2026.03.01 - 2026.03.10 | 오버체인 | 체인 퍼즐 로그라이크 게임 |
@@ -74,9 +75,9 @@
 | Team Toothless | 2026.02.17 - 2026.02.20 | 방주위의 동물들 | 물리 기반 스택 게임 |
 | Team Toothless | 2026.02.09 - 2026.02.13 | RPS Rush | 캐주얼 가위바위보 게임 |
 | Team Toothless | 2026.02.01 - 2026.02.07 | Jelly Pop | 캐주얼 퍼즐 게임 |
-| [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.02.07 - (유지보수 진행중) | 게임허브 백엔드 서버 (private) | Fastify(TS) Backend Server |
+| [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.02.07 - (유지보수 진행중) | 게임허브 백엔드 서버 | Fastify(TS) Backend Server |
 | [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.02.06 - 2026.02.07 | [Local Web Viewer](https://github.com/DevPumpkin0113/webview-dev-app) | 앱 개발용 웹뷰어 |
-| [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.02.01 - (유지보수 진행중) | 팀 투스리스 게임허브 (private) | React(TS) Frontend WepApp |
+| [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.02.01 - (유지보수 진행중) | 팀 투스리스 게임허브 | React(TS) Frontend WepApp |
 | 우 아 모 | 2025.02.10 - 2025.03.14 | [STUV](https://github.com/prgrms-web-devcourse-final-project/WEB2_3_Wooamo_BE) | 학습 독려 플랫폼 |
 | 데브코스 7팀 | 2024.12.10 - 2025.01.06 | [Popup Market](https://github.com/prgrms-be-devcourse/NBE2-3-2-team7/tree/main) | 팝업스토어 공간 임대 플랫폼 |
 <!-- | 2025.03.17 - ~ | [Devlog](#) | 개발자 포트폴리오 및 이슈/트러블슈팅 기록 플랫폼 | -->
