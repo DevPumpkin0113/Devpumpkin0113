@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 - 안녕하세요, 다양한 개발 경험을 쌓아가는 개발자 박대호입니다.
 - 사용자 경험을 고려한 UI/UX 개발에도 관심을 가지고 있습니다.
-- 현재는 웹개발과 게임개발에 관심을 가지고 있습니다.
+- 현재는 바이브 코딩을 통한 게임, 서버, 웹 등 다양한 개발 환경을 경험하고 있습니다.
 
 ## 🔎 Github Stats
 <div align="left">
@@ -67,7 +67,8 @@
 ## 🌐 Projects
 | Repository | Period | Title | Overview |
 |------|------|----------|------|
-| [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.03.30 - 2026.04.?? | 미니앱 로깅 시스템 | 미니앱 로깅 시스템 |
+| [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.03.30 - 2026.03.30 | 앱인토스 미니앱 원격 로그 수집 SDK | npm Package (TypeScript) |
+| [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.03.30 - 2026.03.30 | 앱인토스 미니앱 원격 로그 수집 서버 | Fiber (Golang) Backend |
 | [팀 투스리스](https://github.com/TeamTooThless99) - 박대호 | 2026.03.28 - 2026.03.30 | 레인보우 크러쉬 | 무지개 캐주얼 퍼즐 게임 : 젤리 팝 리메이크 / 출시 |
 | [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.03.22 - Present | 팀 투스리스 CDN 서버 | Fiber (Golang) Backend |
 | [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.03.21 - Present | 팀 투스리스 웹 | React (TypeScript) Web App |
