@@ -67,6 +67,7 @@
 ## 🌐 Projects
 | Repository | Period | Title | Overview |
 |------|------|----------|------|
+| Team Toothless | 2026.03.28 - 2026.03.30 | 레인보우 크러쉬 | 무지개로 시작하는 케주얼 퍼즐 게임 |
 | [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.03.22 - Present | 팀 투스리스 CDN 서버 | Fiber (Golang) Backend |
 | [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.03.21 - Present | 팀 투스리스 웹 | React (TypeScript) Web App |
 | Team Toothless | 2026.03.17 - 2026.03.22 | 운수대통 : 동양화투점 | 화투로 보는 오늘의 운세 |
