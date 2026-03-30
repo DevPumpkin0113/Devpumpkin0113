@@ -67,16 +67,17 @@
 ## 🌐 Projects
 | Repository | Period | Title | Overview |
 |------|------|----------|------|
-| Team Toothless | 2026.03.28 - 2026.03.30 | 레인보우 크러쉬 | 무지개로 시작하는 케주얼 퍼즐 게임 |
+| [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.03.28 - 2026.03.30 | 레인보우 크러쉬 | 무지개로 시작하는 케주얼 퍼즐 게임 / 젤리 팝 리메이크 |
+| [팀 투스리스](https://github.com/TeamTooThless99) - 박대호 | 2026.03.28 - 2026.03.30 | 레인보우 크러쉬 | 무지개로 시작하는 케주얼 퍼즐 게임 / 출시 |
 | [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.03.22 - Present | 팀 투스리스 CDN 서버 | Fiber (Golang) Backend |
 | [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.03.21 - Present | 팀 투스리스 웹 | React (TypeScript) Web App |
-| Team Toothless | 2026.03.17 - 2026.03.22 | 운수대통 : 동양화투점 | 화투로 보는 오늘의 운세 |
-| Team Toothless | 2026.03.13 - 2026.03.16 | 쌓고 출고 | 물류센터 느낌의 캐주얼 테트리스 퍼즐 게임 |
-| Team Toothless | 2026.03.01 - 2026.03.10 | 오버체인 | 체인 퍼즐 로그라이크 게임 |
-| Team Toothless | 2026.02.21 - 2026.02.28 | 택틱체스 (공동개발) | 체스 로그라이크 게임 |
-| Team Toothless | 2026.02.17 - 2026.02.20 | 방주위의 동물들 | 물리 기반 스택 게임 |
-| Team Toothless | 2026.02.09 - 2026.02.13 | RPS Rush | 캐주얼 가위바위보 게임 |
-| Team Toothless | 2026.02.01 - 2026.02.07 | Jelly Pop | 캐주얼 퍼즐 게임 |
+| [팀 투스리스](https://github.com/TeamTooThless99) - 박대호 | 2026.03.17 - 2026.03.22 | 운수대통 : 동양화투점 | 화투로 보는 오늘의 운세 / 출시 |
+| [팀 투스리스](https://github.com/TeamTooThless99) - 박대호 | 2026.03.13 - 2026.03.16 | 쌓고 출고 | 물류센터 느낌의 캐주얼 테트리스 퍼즐 게임 / 출시 |
+| [팀 투스리스](https://github.com/TeamTooThless99) - 박대호 | 2026.03.01 - 2026.03.10 | 오버체인 | 체인 퍼즐 로그라이크 게임 / 출시 |
+| [팀 투스리스](https://github.com/TeamTooThless99) - 박대호 | 2026.02.21 - 2026.02.28 | 택틱체스 (공동개발) | 체스 로그라이크 게임 / 출시 |
+| [팀 투스리스](https://github.com/TeamTooThless99) - 박대호 | 2026.02.17 - 2026.02.20 | 방주위의 동물들 | 물리 기반 스택 게임 / 출시 |
+| [팀 투스리스](https://github.com/TeamTooThless99) - 박대호 | 2026.02.09 - 2026.02.13 | RPS Rush | 캐주얼 가위바위보 게임 / 출시 |
+| [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.02.01 - 2026.02.07 | Jelly Pop | 캐주얼 퍼즐 게임 / 초기 테스트용 |
 | [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.02.07 - Present | 팀 투스리스 API 서버 | Fastify (TypeScript) Backend |
 | [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.02.06 - 2026.02.07 | [Local Web Viewer](https://github.com/DevPumpkin0113/webview-dev-app) | 앱 개발용 웹뷰어 |
 | [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.02.01 - Present | 팀 투스리스 허브 | React (TypeScript) Web App |
