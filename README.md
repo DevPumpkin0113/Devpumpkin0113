@@ -79,7 +79,7 @@
 | 팀 투스리스 | 26.02.21 - 26.02.28 | 택틱체스 (공동) | 체스 로그라이크 게임 / 출시용 |
 | 팀 투스리스 | 26.02.17 - 26.02.20 | 방주위의 동물들 | 물리 기반 스택 게임 / 출시용 |
 | 팀 투스리스 | 26.02.09 - 26.02.13 | 가위바위보 러쉬 | 캐주얼 가위바위보 게임 / 출시용 |
-| DevPumpkin0113 | 26.02.01 - 26.02.07 | 젤리 팝 | 캐주얼 퍼즐 게임 / 초기 테스트용 |
+| 팀 투스리스 | 26.02.01 - 26.02.07 | 젤리 팝 | 캐주얼 퍼즐 게임 / 초기 테스트용 |
 | DevPumpkin0113 | 26.02.07 - Present | 팀 투스리스 API 서버 | Fastify (TypeScript) Backend |
 | DevPumpkin0113 | 26.02.06 - 26.02.07 | [Local Web Viewer](https://github.com/DevPumpkin0113/webview-dev-app) | 앱 개발용 웹뷰어 |
 | DevPumpkin0113 | 26.02.01 - Present | 팀 투스리스 허브 | React (TypeScript) Web App |
