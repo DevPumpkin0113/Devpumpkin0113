@@ -67,26 +67,26 @@
 ## 🌐 Projects
 | Repository | Period | Title | Overview |
 |------|------|----------|------|
-| [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.04.04 - 2026.04.05 | [AssetDex](https://github.com/DevPumpkin0113/AssetDex) | 에셋 관리용 탐색기 |
-| [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.03.30 - 2026.03.30 | 미니앱 원격 로그 수집 SDK | 앱인토스 미니앱 원격 로그 수집 SDK |
-| [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.03.30 - 2026.03.30 | 미니앱 원격 로그 수집 서버 | Fiber (Golang) Backend |
-| [팀 투스리스](https://github.com/TeamTooThless99) | 2026.03.28 - 2026.03.30 | 레인보우 크러쉬 | 캐주얼 퍼즐 게임 : 젤리 팝 리메이크 / 출시용 |
-| [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.03.22 - Present | 팀 투스리스 CDN 서버 | Fiber (Golang) Backend |
-| [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.03.21 - Present | 팀 투스리스 웹 | React (TypeScript) Web App |
-| [팀 투스리스](https://github.com/TeamTooThless99) | 2026.03.17 - 2026.03.22 | 운수대통 : 동양화투점 | 화투로 보는 오늘의 운세 / 출시용 |
-| [팀 투스리스](https://github.com/TeamTooThless99) | 2026.03.13 - 2026.03.16 | 쌓고 출고 | 캐주얼 테트리스 퍼즐 게임 / 출시용 |
-| [팀 투스리스](https://github.com/TeamTooThless99) | 2026.03.01 - 2026.03.10 | 오버체인 | 체인 퍼즐 로그라이크 게임 / 출시용 |
-| [팀 투스리스](https://github.com/TeamTooThless99) | 2026.02.21 - 2026.02.28 | 택틱체스 (공동) | 체스 로그라이크 게임 / 출시용 |
-| [팀 투스리스](https://github.com/TeamTooThless99) | 2026.02.17 - 2026.02.20 | 방주위의 동물들 | 물리 기반 스택 게임 / 출시용 |
-| [팀 투스리스](https://github.com/TeamTooThless99) | 2026.02.09 - 2026.02.13 | 가위바위보 러쉬 | 캐주얼 가위바위보 게임 / 출시용 |
-| [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.02.01 - 2026.02.07 | 젤리 팝 | 캐주얼 퍼즐 게임 / 초기 테스트용 |
-| [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.02.07 - Present | 팀 투스리스 API 서버 | Fastify (TypeScript) Backend |
-| [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.02.06 - 2026.02.07 | [Local Web Viewer](https://github.com/DevPumpkin0113/webview-dev-app) | 앱 개발용 웹뷰어 |
-| [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.02.01 - Present | 팀 투스리스 허브 | React (TypeScript) Web App |
-| 우 아 모 | 2025.02.10 - 2025.03.14 | [STUV](https://github.com/prgrms-web-devcourse-final-project/WEB2_3_Wooamo_BE) | 학습 독려 플랫폼 |
-| 데브코스 7팀 | 2024.12.10 - 2025.01.06 | [Popup Market](https://github.com/prgrms-be-devcourse/NBE2-3-2-team7/tree/main) | 팝업스토어 공간 임대 플랫폼 |
-<!-- | 2025.03.17 - ~ | [Devlog](#) | 개발자 포트폴리오 및 이슈/트러블슈팅 기록 플랫폼 | -->
-<!-- | YYYY.MM - YYYY.MM | [](#) | 개요 | -->
+| DevPumpkin0113 | 26.04.04 - 26.04.05 | [AssetDex](https://github.com/DevPumpkin0113/AssetDex) | 에셋 관리용 탐색기 |
+| DevPumpkin0113 | 26.03.30 - 26.03.30 | 미니앱 원격 로그 수집 SDK | 앱인토스 미니앱 원격 로그 수집 SDK |
+| DevPumpkin0113 | 26.03.30 - 26.03.30 | 미니앱 원격 로그 수집 서버 | Fiber (Golang) Backend |
+| 팀 투스리스 | 26.03.28 - 26.03.30 | 레인보우 크러쉬 | 캐주얼 퍼즐 게임 : 젤리 팝 리메이크 / 출시용 |
+| DevPumpkin0113 | 26.03.22 - Present | 팀 투스리스 CDN 서버 | Fiber (Golang) Backend |
+| DevPumpkin0113 | 26.03.21 - Present | 팀 투스리스 웹 | React (TypeScript) Web App |
+| 팀 투스리스 | 26.03.17 - 26.03.22 | 운수대통 : 동양화투점 | 화투로 보는 오늘의 운세 / 출시용 |
+| 팀 투스리스 | 26.03.13 - 26.03.16 | 쌓고 출고 | 캐주얼 테트리스 퍼즐 게임 / 출시용 |
+| 팀 투스리스 | 26.03.01 - 26.03.10 | 오버체인 | 체인 퍼즐 로그라이크 게임 / 출시용 |
+| 팀 투스리스 | 26.02.21 - 26.02.28 | 택틱체스 (공동) | 체스 로그라이크 게임 / 출시용 |
+| 팀 투스리스 | 26.02.17 - 26.02.20 | 방주위의 동물들 | 물리 기반 스택 게임 / 출시용 |
+| 팀 투스리스 | 26.02.09 - 26.02.13 | 가위바위보 러쉬 | 캐주얼 가위바위보 게임 / 출시용 |
+| DevPumpkin0113 | 26.02.01 - 26.02.07 | 젤리 팝 | 캐주얼 퍼즐 게임 / 초기 테스트용 |
+| DevPumpkin0113 | 26.02.07 - Present | 팀 투스리스 API 서버 | Fastify (TypeScript) Backend |
+| DevPumpkin0113 | 26.02.06 - 26.02.07 | [Local Web Viewer](https://github.com/DevPumpkin0113/webview-dev-app) | 앱 개발용 웹뷰어 |
+| DevPumpkin0113 | 26.02.01 - Present | 팀 투스리스 허브 | React (TypeScript) Web App |
+| 우 아 모 | 25.02.10 - 25.03.14 | [STUV](https://github.com/prgrms-web-devcourse-final-project/WEB2_3_Wooamo_BE) | 학습 독려 플랫폼 |
+| 데브코스 7팀 | 24.12.10 - 25.01.06 | [Popup Market](https://github.com/prgrms-be-devcourse/NBE2-3-2-team7/tree/main) | 팝업스토어 공간 임대 플랫폼 |
+<!-- | 25.03.17 - ~ | [Devlog](#) | 개발자 포트폴리오 및 이슈/트러블슈팅 기록 플랫폼 | -->
+<!-- | yy.mm - yy.mm | [](#) | 개요 | -->
 
 
 <!-- <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white"> -->
