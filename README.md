@@ -67,7 +67,7 @@
 ## 🌐 Projects
 | Repository | Period | Title | Overview |
 |------|------|----------|------|
-| [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.04.04 - 2026.04.?? | [AssetDex](https://github.com/DevPumpkin0113/AssetDex) | 에셋 관리용 탐색기 |
+| [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.04.04 - 2026.04.05 | [AssetDex](https://github.com/DevPumpkin0113/AssetDex) | 에셋 관리용 탐색기 |
 | [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.03.30 - 2026.03.30 | 미니앱 원격 로그 수집 SDK | 앱인토스 미니앱 원격 로그 수집 SDK |
 | [DevPumpkin0113](https://github.com/DevPumpkin0113) | 2026.03.30 - 2026.03.30 | 미니앱 원격 로그 수집 서버 | Fiber (Golang) Backend |
 | [팀 투스리스](https://github.com/TeamTooThless99) | 2026.03.28 - 2026.03.30 | 레인보우 크러쉬 | 무지개 캐주얼 퍼즐 게임 : 젤리 팝 리메이크 / 출시용 |
