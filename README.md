@@ -67,7 +67,7 @@
 ## 🌐 Projects
 | Repository | Period | Title | Overview |
 |------|------|----------|------|
-| DevPumpkin0113 | 26.04.04 - 26.04.05 | [AssetDex](https://github.com/DevPumpkin0113/AssetDex) | 에셋 관리용 탐색기 |
+| DevPumpkin0113 | 26.04.04 - 26.04.05 | [AssetDex](https://github.com/DevPumpkin0113/AssetDex) (PC) | 에셋 관리용 탐색기 |
 | DevPumpkin0113 | 26.03.30 - 26.03.30 | 미니앱 로그 수집 SDK (SDK) | - |
 | DevPumpkin0113 | 26.03.30 - 26.03.30 | 미니앱 로그 수집 서버 (백엔드) | 앱인토스 앱 개발용 |
 | 팀 투스리스 | 26.03.28 - 26.03.30 | 레인보우 크러쉬 (게임) | 앱인토스 출시용 |
