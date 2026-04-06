@@ -90,3 +90,7 @@
 
 
 <!-- <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white"> -->
+
+## 📬 Contact
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&labelColor=20C997)](https://velog.io/@tto0113)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:agg0113@gmail.com)
