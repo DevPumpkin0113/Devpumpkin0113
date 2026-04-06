@@ -77,14 +77,14 @@
 | 팀 투스리스 | 26.03.13 - 26.03.16 | 쌓고 출고 (게임) | 앱인토스 출시용 |
 | 팀 투스리스 | 26.03.01 - 26.03.10 | 오버체인 (게임) | 앱인토스 출시용 |
 | 팀 투스리스 | 26.02.21 - 26.02.28 | 택틱체스 (게임) | 앱인토스 출시용 |
-| 팀 투스리스 | 26.02.17 - 26.02.20 | 방주위의 동물들 | 앱인토스 출시용 |
-| 팀 투스리스 | 26.02.09 - 26.02.13 | 가위바위보 러쉬 | 앱인토스 출시용 |
-| 팀 투스리스 | 26.02.01 - 26.02.07 | 젤리 팝 | 앱인토스 초기 테스트용 |
-| DevPumpkin0113 | 26.02.07 - Present | 팀 투스리스 API 서버 | - |
-| DevPumpkin0113 | 26.02.06 - 26.02.07 | [Local Web Viewer](https://github.com/DevPumpkin0113/webview-dev-app) | 미니앱 개발용 웹뷰어 |
-| DevPumpkin0113 | 26.02.01 - Present | 팀 투스리스 허브 | 팀 개발 테스트용 |
-| 우 아 모 | 25.02.10 - 25.03.14 | [STUV](https://github.com/prgrms-web-devcourse-final-project/WEB2_3_Wooamo_BE) | 학습 독려 플랫폼 |
-| 데브코스 7팀 | 24.12.10 - 25.01.06 | [Popup Market](https://github.com/prgrms-be-devcourse/NBE2-3-2-team7/tree/main) | 팝업 공간 임대 플랫폼 |
+| 팀 투스리스 | 26.02.17 - 26.02.20 | 방주위의 동물들 (게임) | 앱인토스 출시용 |
+| 팀 투스리스 | 26.02.09 - 26.02.13 | 가위바위보 러쉬 (게임) | 앱인토스 출시용 |
+| 팀 투스리스 | 26.02.01 - 26.02.07 | 젤리 팝 (게임) | 앱인토스 초기 테스트용 |
+| DevPumpkin0113 | 26.02.07 - Present | 팀 투스리스 API 서버 (백엔드) | - |
+| DevPumpkin0113 | 26.02.06 - 26.02.07 | [Local Web Viewer](https://github.com/DevPumpkin0113/webview-dev-app) (모바일) | 미니앱 개발용 웹뷰어 앱 |
+| DevPumpkin0113 | 26.02.01 - Present | 팀 투스리스 허브 (프론트) | 팀 개발 테스트용 |
+| 데브코스 2팀 - 우아모 | 25.02.10 - 25.03.14 | [STUV](https://github.com/prgrms-web-devcourse-final-project/WEB2_3_Wooamo_BE) (풀스택) | 학습 독려 플랫폼 |
+| 데브코스 7팀 | 24.12.10 - 25.01.06 | [Popup Market](https://github.com/prgrms-be-devcourse/NBE2-3-2-team7/tree/main) (풀스택) | 팝업 공간 임대 플랫폼 |
 <!-- | 25.03.17 - ~ | [Devlog](#) | 개발자 포트폴리오 및 이슈/트러블슈팅 기록 플랫폼 | -->
 <!-- | yy.mm - yy.mm | [](#) | 개요 | -->
 
