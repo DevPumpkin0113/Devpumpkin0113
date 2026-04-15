@@ -34,9 +34,7 @@
   </a>
 
   <a href="mailto:agg0113@gmail.com" style="display:flex; flex-direction:column; align-items:center; gap:6px; text-decoration:none;">
-    <div style="display:flex; align-items:center; justify-content:center; background:#ffffff; width:48px; height:48px; border-radius:14px; box-sizing:border-box; padding:8px;">
-      <img src="images/assets/gmail.png" width="100%" height="100%" style="object-fit:contain;" />
-    </div>
+    <img src="images/assets/gmail.png" width="48" height="48" />
     <span style="font-size:11px; color:#4285f4; font-weight:600; letter-spacing:0.3px;">Gmail</span>
   </a>
 
