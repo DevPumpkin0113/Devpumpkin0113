@@ -26,26 +26,18 @@
 
 ---
 ![header](https://capsule-render.vercel.app/api?type=soft&height=30&color=222222&text=Contact&textBg=false&fontAlign=8&fontColor=ffffff&fontAlignY=55&fontSize=24)
-<div style="display:flex; gap:12px; align-items:flex-end; margin-top:12px;">
-
-  <a href="https://velog.io/@tto0113" style="display:flex; flex-direction:column; align-items:center; gap:6px; text-decoration:none;">
-    <img src="images/assets/velog_v2.png" width="48" height="48" style="border-radius:14px; object-fit:contain;" />
-    <span style="font-size:11px; color:#20C997; font-weight:600; letter-spacing:0.3px;">Velog</span>
-  </a>
-
-  <a href="mailto:agg0113@gmail.com" style="display:flex; flex-direction:column; align-items:center; gap:6px; text-decoration:none;">
-    <img src="images/assets/gmail_v2.png" width="48" height="48" />
-    <span style="font-size:11px; color:#4285f4; font-weight:600; letter-spacing:0.3px;">Gmail</span>
-  </a>
-
-  <a href="https://ko-fi.com/devpumpkin" style="display:flex; flex-direction:column; align-items:center; gap:6px; text-decoration:none;">
-    <div style="display:flex; align-items:center; justify-content:center; background:#72a5f2; width:48px; height:48px; border-radius:14px; box-sizing:border-box; padding:6px;">
-      <img src="images/assets/kofi_v2.png" width="100%" height="100%" style="object-fit:contain;" />
-    </div>
-    <span style="font-size:11px; color:#72a5f2; font-weight:600; letter-spacing:0.3px;">Ko-fi</span>
-  </a>
-
-</div>
+<table>
+  <tr>
+    <td align="center"><a href="https://velog.io/@tto0113"><img src="images/assets/velog_v2.png" width="48" height="48" /></a></td>
+    <td align="center"><a href="mailto:agg0113@gmail.com"><img src="images/assets/gmail_v2.png" width="48" height="48" /></a></td>
+    <td align="center"><a href="https://ko-fi.com/devpumpkin"><img src="images/assets/kofi_v2.png" width="48" height="48" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Gmail-ea4335?style=flat-square&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Ko--fi-72a5f2?style=flat-square&logoColor=white" /></td>
+  </tr>
+</table>
 
 <!-- 
 	<a href="https://open.kakao.com/o/sbsQvlqi" style="display:flex; width:48px; height:48px; border-radius: 8px; overflow:hidden;">
