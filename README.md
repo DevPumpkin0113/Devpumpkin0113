@@ -29,18 +29,18 @@
 <div style="display:flex; gap:12px; align-items:flex-end; margin-top:12px;">
 
   <a href="https://velog.io/@tto0113" style="display:flex; flex-direction:column; align-items:center; gap:6px; text-decoration:none;">
-    <img src="images/assets/velog.png" width="48" height="48" style="border-radius:14px; object-fit:contain;" />
+    <img src="images/assets/velog_v2.png" width="48" height="48" style="border-radius:14px; object-fit:contain;" />
     <span style="font-size:11px; color:#20C997; font-weight:600; letter-spacing:0.3px;">Velog</span>
   </a>
 
   <a href="mailto:agg0113@gmail.com" style="display:flex; flex-direction:column; align-items:center; gap:6px; text-decoration:none;">
-    <img src="images/assets/gmail.png" width="48" height="48" />
+    <img src="images/assets/gmail_v2.png" width="48" height="48" />
     <span style="font-size:11px; color:#4285f4; font-weight:600; letter-spacing:0.3px;">Gmail</span>
   </a>
 
   <a href="https://ko-fi.com/devpumpkin" style="display:flex; flex-direction:column; align-items:center; gap:6px; text-decoration:none;">
     <div style="display:flex; align-items:center; justify-content:center; background:#72a5f2; width:48px; height:48px; border-radius:14px; box-sizing:border-box; padding:6px;">
-      <img src="images/assets/kofi.png" width="100%" height="100%" style="object-fit:contain;" />
+      <img src="images/assets/kofi_v2.png" width="100%" height="100%" style="object-fit:contain;" />
     </div>
     <span style="font-size:11px; color:#72a5f2; font-weight:600; letter-spacing:0.3px;">Ko-fi</span>
   </a>
