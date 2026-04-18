@@ -19,9 +19,11 @@
 ---
 ![header](https://capsule-render.vercel.app/api?type=soft&height=30&color=222222&text=Github%20Stats&textBg=false&fontAlign=11&fontColor=ffffff&fontAlignY=55&fontSize=24)
 <div align="left">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevPumpkin0113&theme=zenburn" width=38% />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevPumpkin0113&theme=zenburn" width=38% />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevPumpkin0113&theme=zenburn" width=76.5%/>
+    <img src="profile-summary-card-output/zenburn/2-most-commit-language.svg" width=38% />
+    <img src="profile-summary-card-output/zenburn/1-repos-per-language.svg" width=38% />
+    <img src="profile-summary-card-output/zenburn/3-stats.svg" width=38% />
+    <img src="profile-summary-card-output/zenburn/4-productive-time.svg" width=38% />
+    <img src="profile-summary-card-output/zenburn/0-profile-details.svg" width=76.5%/>
 </div>
 
 ---
